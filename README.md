@@ -1,6 +1,6 @@
 # Felixyan
 # 1. Summarize the papers in a few sentences. Do not just copy the abstract or conclusion.
-#
+# This paper gives a CPS-enabled platform solution to upgrade e-commerce logistics. For example, let traditional assets change to e-commerce, in order to make things become convenient.
 # 2. What are the keywords used to categorize the paper?
 # Case studies, Cyber physical system, Ecommerce logistics, Synchronization
 # 3. What are the main approaches? Comment on their novelty and technical depth.
