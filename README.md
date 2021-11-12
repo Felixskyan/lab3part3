@@ -10,7 +10,7 @@
 # 5. What are the major weaknesses of the paper?
 # Lack of real-time data collection and interaction. Also, lack of operation and process synchronization
 # 6. What do you learn from the paper? It can be either a new research area, or a new problem, or the approach itself, or evaluation methodology, or the results.
-# Cyber physical ecommerce logistics system is a big trend in Hong Kong. 
+# Cyber physical ecommerce logistics system is a big trend in Hong Kong. I learn that what is CPS and its advantages for some of the business in Hong Kong.
 # Lab1 Q6&7
 # 6.Examine your PC. Using a four columns table format, identify and record the following information: 1st column: Program name, 2nd column: software manufacturer, 3rd column: software version, 4th column: software type (operation system, browser, editor/word processor, spreadsheet, database, etc.).
 | Program | Software manufacturer | Software version | Software type |
